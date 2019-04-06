@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
-
+#include "Vector.h"
 
 int main() {
 
@@ -13,7 +13,6 @@ int main() {
     for (int i = 0; i < 100; ++i) {
         vec1.push_back(i);
         vec2.push_back(i);
-
         // Verificando cada dato
         assert(vec1[i] == vec2.get_item(i));
     }

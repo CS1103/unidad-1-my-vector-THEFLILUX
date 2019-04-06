@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge/Documents/POO 2 proyects/unidad-1-my-vector-THEFLILUX/Vector.cpp
+Vector.h
+C:/Users/Jorge/Documents/POO 2 proyects/unidad-1-my-vector-THEFLILUX/Vector.h
+
+C:/Users/Jorge/Documents/POO 2 proyects/unidad-1-my-vector-THEFLILUX/Vector.h
+
+C:/Users/Jorge/Documents/POO 2 proyects/unidad-1-my-vector-THEFLILUX/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+Vector.h
+C:/Users/Jorge/Documents/POO 2 proyects/unidad-1-my-vector-THEFLILUX/Vector.h
+
